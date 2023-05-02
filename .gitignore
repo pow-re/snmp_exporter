@@ -30,4 +30,3 @@ dependencies-stamp
 /vendor
 
 generator/generator
-generator/mibs
